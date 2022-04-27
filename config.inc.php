@@ -41,7 +41,7 @@ $db->addServer(array (
   'password' => 'Yanziyuan666',
   'charset' => 'utf8mb4',
   'port' => '3306',
-  'database' => 'yanziyuan',
+  'database' => 'yanziyuan666',
   'engine' => 'MyISAM',
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);
